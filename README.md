@@ -1,5 +1,6 @@
 # 1 / Getting Started
 ## Hello! You're probably reading this because you're struggling with making a GDPS, or you're just getting started. I'll show you how to do just that using the tools created by Noxi and the other awesome people behind NoxiCloud.
+### NOTE: This is a PC only tutorial.
 ## 1.1 / Creating the GDPS
 So first, you'll start by running /creategdps [GDPS Name] [GDPS Password] inside of #create-gdps. Easy enough, right?
 Once you're done with that, you can go to https://ncpanel.noxicloud.es:8083 to manage your GDPS (PMA, File manager, host name, etc). You'll enter the name and password that you gave it while creating the GDPS!
